@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToMi.BLL", "ToMi.BLL\ToMi.BLL.csproj", "{DC68830A-18EA-49DE-8550-B5DC71FF1E70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC68830A-18EA-49DE-8550-B5DC71FF1E70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC68830A-18EA-49DE-8550-B5DC71FF1E70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC68830A-18EA-49DE-8550-B5DC71FF1E70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC68830A-18EA-49DE-8550-B5DC71FF1E70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BAD701C-17EE-4D76-BF93-B77583726961}
+	EndGlobalSection
+EndGlobal
