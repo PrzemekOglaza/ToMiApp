@@ -15,8 +15,7 @@
             // Kod aby wysłać email do odbiorcy
 
             var potwierdzeni = "Wiadomość wysłana: " + temat;
-            var logowanieService = new LogowanieService();
-            logowanieService.Logowanie(potwierdzeni);
+            LogowanieService.Logowanie(potwierdzeni);
 
             return potwierdzeni;
         }
